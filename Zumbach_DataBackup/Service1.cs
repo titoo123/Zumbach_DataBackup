@@ -12,7 +12,7 @@ using System.Timers;
 namespace Zumbach_DataBackup
 {
     public partial class Service1 : ServiceBase
-    {   
+    {   //
         //string source=@"\\10.222.103.216\steelmaster_db$";
         //string target=@"\\10.222.103.226\MSR_Sicherungen$";
         string source = @"C:\Users\tino.schmittat\Desktop\Softwareprojekte\Zumbach\Quelle";
